@@ -1,0 +1,91 @@
+    h1{
+	   text-align: center;
+       color: rgb(13,80,87);
+       font-family: 'Montserrat', sans-serif;
+  	}
+
+    h2{
+        text-align: left;
+        color: rgb(13,80,87);
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    h3{
+        text-align: center;
+        background-color: yellow;
+        width: 200px;
+        color: black;
+        font-family: 'Montserrat', sans-serif;
+
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    li {
+        float: left;
+        color:white;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: gray;
+    }
+
+
+    #info{
+        width: 440px;
+        margin: auto;
+        text-align: center;
+
+    }
+
+	#container {
+        width: 800px;
+        background-color: gray;
+        margin: auto;
+        text-align: center;
+	}
+	#first {
+        width: 200px;
+        float: left;
+        height: 300px;
+        background-color: rgb(173,216,230);
+        margin: 10px;
+	}
+	#second {
+        width: 200px;
+        float: left;
+        height: 300px;
+        background-color: rgb(233,116,230);
+        margin: 10px;
+	}
+
+    #third {
+        width: 800px;
+        float: left;
+        height: 300px;
+        background-color: rgb(133,216,230);
+        margin: 10px;
+    }
+    #item_list{
+        width: 200px;
+        float: left;
+        height: 200px;
+        background-color: rgb(211,211,211);
+        margin: 10px;
+
+    }
