@@ -89,3 +89,10 @@
         margin: 10px;
 
     }
+
+    #logo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+
+    }
